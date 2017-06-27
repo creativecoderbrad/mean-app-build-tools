@@ -1,3 +1,5 @@
 # mean-app-template
 
-template
+to add:
+
+webpack to manage jquery / bootstrap
